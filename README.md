@@ -1,6 +1,11 @@
-# **Color-Blend**  
+ # **Color-Blend**  
 
 A simple project to showcase custom blending of multiple colors using a blending algorithm. Built with the **Nuxt 3 Framework**.
+
+
+# Rn Project
+npm run dev
+
 
 ---
 
@@ -25,6 +30,7 @@ Refer to the [Nuxt 3 Documentation](https://nuxt.com/docs) for detailed informat
 Install the dependencies for the project:  
 
 ```bash
+
 # Using npm
 npm install
 
