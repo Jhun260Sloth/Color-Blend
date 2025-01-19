@@ -4,12 +4,10 @@ A simple project to showcase custom blending of multiple colors using a blending
 
 
 ### **Run Project**  
-Install the dependencies for the project:  
-
-```bash
 
 # Run Locally
 npm run dev
+
 
 ---
 
