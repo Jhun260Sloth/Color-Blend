@@ -3,9 +3,13 @@
 A simple project to showcase custom blending of multiple colors using a blending algorithm. Built with the **Nuxt 3 Framework**.
 
 
-# Rn Project
-npm run dev
+### **Run Project**  
+Install the dependencies for the project:  
 
+```bash
+
+# Run Locally
+npm run dev
 
 ---
 
