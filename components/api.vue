@@ -116,9 +116,6 @@ onMounted(async () => {
         <div class="flex items-center justify-between">
           <h1 class="text-2xl font-bold text-gray-800">Color/Blend</h1>
           <div class="flex items-center space-x-4">
-            <button class="px-4 py-2 text-gray-600 hover:text-gray-800 font-medium transition-colors">
-              About
-            </button>
           </div>
         </div>
       </div>
